@@ -1,4 +1,6 @@
 ## Hi there 👋
+Meu nome é Natália
+😓
 
 <!--
 **nataliaroza284/nataliaroza284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
